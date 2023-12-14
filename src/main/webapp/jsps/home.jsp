@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome Universe4D. Marathahalli,Bengaluru,Karnataka,India </h1>
+<h1 align="center">Welcome Universe4D. India </h1>
 <h1 align="center"> Universe4D- every solution i have </h1>
 <hr>
 <br>
@@ -31,7 +31,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/u4d.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Universe4D		
@@ -44,7 +44,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Universe4D - U4D, good Knowlwdge, Development area.</p>
-<p align=center><small>Copyrights 2023 by <a href="http://mithuntechnologies.com/">Universe4D</a> </small></p>
+<p align=center><small>Copyrights 2023 by <a href="http://youtube.com/@universe4d2002/">Universe4D</a> </small></p>
 
 </body>
 </html>

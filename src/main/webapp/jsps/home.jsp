@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
 		Universe4D		
 		<br>
-		<a href="U4D">U4D</a>
+		<a href="u4d">U4D</a>
 	</span>
 </div>
 <hr>

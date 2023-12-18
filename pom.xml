@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Universe4D</name>
-	      <url>http://13.233.145.220:8081/repository/maven-releases/</url>
+	      <url>http://65.0.124.203:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Universe4D </name>
-	      <url>http://13.233.145.220:8081/repository/maven-snapshots/</url>
+	      <url>http://65.0.124.203:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>

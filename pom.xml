@@ -13,7 +13,7 @@
 
 	<organization>
 		<name>Universe4D</name>
-		<url>http://mithuntechnologies.com/</url>
+		<url>http://youtube.com/@universe4d2002/</url>
 	</organization>
 
 	<properties>
@@ -21,8 +21,8 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.207.100.33:9000/</sonar.host.url>
-		<sonar.login>922daff5d8661b3edc9c625774b91fdf4ec2dbf0</sonar.login>
+		<sonar.host.url>http://13.127.190.20:9000/</sonar.host.url>
+		<sonar.login>e9a611ebaf201a1dedec504e858f502db16587c4</sonar.login>
 		
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
